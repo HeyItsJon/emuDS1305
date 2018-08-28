@@ -24,7 +24,7 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Git\emuDS1305\src\emuDS1305.h">
+    <ClInclude Include="emuDS1305.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -35,7 +35,7 @@
     <ClCompile Include="dllmain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Git\emuDS1305\src\emuDS1305.cpp">
+    <ClCompile Include="emuDS1305.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
